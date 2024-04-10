@@ -1,0 +1,4 @@
+practice_*/bin/*
+practice_*/obj/*
+practice_*/*.sln
+practice_*/.vscode
