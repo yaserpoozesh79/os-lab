@@ -37,8 +37,7 @@ namespace App{
                         break;
                     case 3: // Removal
                         Console.WriteLine("Disk removed");
-                        if(startedProcess != null)
-                            startedProcess.Kill();
+                        startedProcess?.Kill();
                         break;
                     default:
                         Console.WriteLine($"Unknown event type: {eventType}");
@@ -51,8 +50,11 @@ namespace App{
             }
         }
 
+        
+
         public void Dispose()
         {
+            GC.SuppressFinalize(this);
             _watcher.Stop();
             _watcher.Dispose();
         }

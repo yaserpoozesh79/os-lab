@@ -26,6 +26,7 @@ The OS-Lab course covered the following topics:
 1. Introduction to C# and the .NET Framework
 2. Process management in Windows
 3. Event handling and asynchronous programming
+4. Working with files using dotent on windows
 
 ## Project Descriptions
 In each practice's directory there is a "practice description.md" file that explains the goal of the practice.
@@ -33,6 +34,7 @@ Throughout the course, we complete several practices that apply the concepts lea
 
 1. **Process Monitoring and Control**: Developed a C# application that can monitor and control running processes on a Windows system, including the ability to start, stop, and view process information.
 2. **Event-driven Application**: Built an application that showcases various event handling techniques, such as mouse events, keyboard events, and custom events.
+3. **File Reading and Saving**: Built an application that utilizes file management capabilities of dotnet framework.
 
 ## How to Run the Projects
 To run the projects in this repository, you'll need to have the following software installed:
