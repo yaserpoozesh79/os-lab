@@ -13,6 +13,9 @@ This repository contains the practice exercises and projects from the OS-Lab cou
 ## Introduction
 The OS-Lab course was designed to provide hands-on experience with operating system principles and concepts, using C# and the .NET Framework as the primary tools. Throughout the course, we dived into various aspects of operating systems, including process management, synchronization, and event handling, by implementing practical applications and exploring the Windows operating system.
 
+## Course Instructor
+[**Mohammad Zare (Arioo Barzan)**](https://www.linkedin.com/in/arioobarzan)
+
 ## Technologies Used
 - **Windows Operating System**: The target platform for the course practices, leveraging the operating system's features and functionality.
 - **C#**: The primary programming language used for the course practices and projects.
