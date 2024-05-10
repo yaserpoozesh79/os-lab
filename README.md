@@ -31,6 +31,7 @@ The OS-Lab course covered the following topics:
 3. Event handling and asynchronous programming
 4. Working with files using dotent on windows
 5. Running multiple tasks at a certain concurrency level.
+6. socket programming. transfer data/files through sockets.
 
 ## Project Descriptions
 In each practice's directory there is a "practice description.md" file that explains the goal of the practice.
@@ -40,6 +41,7 @@ Throughout the course, we complete several practices that apply the concepts lea
 2. **Event-driven Application**: Built an application that showcases various event handling techniques, such as mouse events, keyboard events, and custom events.
 3. **File Reading and Saving**: Built an application that utilizes file management capabilities of dotnet framework.
 4. **Managing Concurrent Tasks**: using different tools in dotnet framework to maintin concurrencu and mutual exclusion.
+5. **Socket programming**: learning how to create a C# socket and set up a listener server node that starts listening to any messages coming its way via the predefined IP and protocol. We will also see how to create a client application that will send messages to a listener server and read them using Sockets
 
 ## How to Run the Projects
 To run the projects in this repository, you'll need to have the following software installed:
